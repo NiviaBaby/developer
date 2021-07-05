@@ -1,0 +1,12 @@
+How to run this project
+
+
+1. create virtual environment using python 3 and install from req.text.
+2. Create database 
+3. Run: python manage.py makemigrations
+        python manage.py migrate
+4. Create speruser for admin access and for creating user object.
+5. Make changes in settings.py with databse details
+
+
+
